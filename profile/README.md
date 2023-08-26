@@ -69,7 +69,7 @@ To deliver exceptional software products and services that exceed our clients' e
 
 **Country**: India
 
-**Phone**: [+919679313271](https://wa.me/+919679613271/)
+**Phone**: [+919679613271](https://wa.me/+919679613271/)
 
 **Email**: admin@codelek.com
 
