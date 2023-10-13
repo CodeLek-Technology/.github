@@ -10,7 +10,7 @@ A renowned Software Development Company in India. CodeLek Technology is a dynami
 
 - [Founder & CEO](https://www.github.com/sayantan02)
 - [Co-Founder & MD](https://www.github.com/abhik0007)
-- [Chief Development Officer](https://github.com/HillalRoy)
+- [Lead Developer](https://github.com/HillalRoy)
 
 
 ## Our Vision:
@@ -37,7 +37,7 @@ To deliver exceptional software products and services that exceed our clients' e
 
 # 💻Technologies we Work On:
 
-- **Programming Languages**: Java, Python, C#, JavaScript, Swift, Kotlin, PHP, Ruby, etc.
+- **Programming Languages**: Java, Python, C#, JavaScript, Swift, Kotlin, ~PHP~, Ruby, etc.
 - **Web Technologies**: HTML5, CSS3, React, Angular, Vue.js, Node.js, etc.
 - **Mobile Technologies**: Android SDK, iOS SDK, React Native, Flutter, Xamarin, etc.
 - **Databases**: MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, etc.
@@ -65,13 +65,13 @@ To deliver exceptional software products and services that exceed our clients' e
 
 **CodeLek Technology & Co.**
 
-**Address**: Alipurduar, Newtown, Durga Bari Rd. Near Hero showroom, Probhat Sangha More, PIN - 736121
+**Address**: Alipurduar, Newtown, Loharpool, PIN - 736121
 
 **Country**: India
 
 **Phone**: [+919679613271](https://wa.me/+919679613271/)
 
-**Email**: admin@codelek.com
+**Email**: codelektech@gmail.com
 
 **Website**: [CodeLek Technology](https://www.codelek.com)
 
