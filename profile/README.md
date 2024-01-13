@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/CodeLek-Technology/.github/main/banner.png)
 
 
-# Welcome to CodeLek Technology & Co.
+# Welcome to CodeLek Technology
 A renowned Software Development Company in India. CodeLek Technology is a dynamic and innovative software company that specializes in providing cutting-edge solutions to businesses across various industries. With a team of highly skilled and passionate professionals, we aim to empower our clients with the latest technological advancements and help them stay ahead in today's competitive landscape.
 
 
