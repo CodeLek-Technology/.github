@@ -10,7 +10,6 @@ A renowned Software Development Company in India. CodeLek Technology is a dynami
 
 - [Founder & CEO](https://www.github.com/sayantan02)
 - [Co-Founder & MD](https://www.github.com/abhik0007)
-- [Lead Developer](https://github.com/HillalRoy)
 
 
 ## Our Vision:
@@ -71,7 +70,7 @@ To deliver exceptional software products and services that exceed our clients' e
 
 **Phone**: [+919679613271](https://wa.me/+919679613271/)
 
-**Email**: codelektech@gmail.com
+**Email**: business@codelek.com or codelektech@gmail.com
 
 **Website**: [CodeLek Technology](https://www.codelek.com)
 
