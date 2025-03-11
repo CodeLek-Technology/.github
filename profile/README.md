@@ -62,7 +62,7 @@ To deliver exceptional software products and services that exceed our clients' e
 
 ## Contact Us
 
-**CodeLek Technology & Co.**
+**CodeLek Technology**
 
 **Address**: Alipurduar, Newtown, Loharpool, PIN - 736121
 
@@ -70,7 +70,6 @@ To deliver exceptional software products and services that exceed our clients' e
 
 **Phone**: [+919679613271](https://wa.me/+919679613271/)
 
-**Email**: business@codelek.com or codelektech@gmail.com
+**Email**: sales@admin.codelek.com or codelektech@gmail.com
 
 **Website**: [CodeLek Technology](https://www.codelek.com)
-
